@@ -12,7 +12,7 @@ It represents the campaign’s front-end  aimed at the audience to sign up for o
 ## Motivation / Purpose
 
 The goal of the City Cafe campaign was to:  
-- <Describe the business/marketing objective — e.g. “promote Rakuten’s new cafe program”, “highlight seasonal offers”, “drive user engagement / sign-ups”, etc.>  
+- Drive user engagement / sign-up
 - Provide users with a visually engaging, responsive web experience that matches the brand identity.  
 - Serve as a shareable and easy-to-maintain promotional microsite.  
 
@@ -24,10 +24,8 @@ The project uses the following technologies:
 
 - HTML 
 - CSS (plain / or CSS preprocessor if you used one)  
-
 - Static assets (images under `img/`)  
 
-> If additional tools / frameworks / build processes are used, mention them here.
 
 
 
