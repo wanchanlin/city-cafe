@@ -1,3 +1,5 @@
+# City Cafe 
+
 > 🎯 Campaign project for Rakuten — City Cafe web/landing-page  
 > _A short tagline about what this repository is for (e.g. “Promotional microsite for Rakuten City Cafe campaign”)._
 
@@ -27,6 +29,6 @@ The project uses the following technologies:
 
 > If additional tools / frameworks / build processes are used, mention them here.
 
-## Project Structure
+
 
 
